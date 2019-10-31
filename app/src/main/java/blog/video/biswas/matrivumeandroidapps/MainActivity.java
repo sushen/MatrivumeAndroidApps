@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {public static final int RC_
                                 new AuthUI.IdpConfig.PhoneBuilder().build(),
                                 new AuthUI.IdpConfig.GoogleBuilder().build()
                         ))
+                        .setIsSmartLockEnabled(!BuildConfig.DEBUG /* credentials */, true /* hints */)
                         .build(),
                 RC_SIGN_IN);
     }
