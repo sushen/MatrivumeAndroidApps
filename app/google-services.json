@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "51938811261",
+    "firebase_url": "https://matrivume-bd.firebaseio.com",
+    "project_id": "matrivume-bd",
+    "storage_bucket": "matrivume-bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51938811261:android:b5b0b21005ef93fd7ec014",
+        "android_client_info": {
+          "package_name": "blog.video.biswas.matrivumeandroidapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51938811261-6gica081tbh5jktfqse9thb20apcuon8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "blog.video.biswas.matrivumeandroidapps",
+            "certificate_hash": "ef9bd4b7b1c31092880d06de6269bed66d1690f9"
+          }
+        },
+        {
+          "client_id": "51938811261-975kl42el8th0eouvu0naun9577p6ltn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-B5LNOkFnaqT0G3PMH2cWddawPjkeRpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51938811261-975kl42el8th0eouvu0naun9577p6ltn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
